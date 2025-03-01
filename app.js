@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 document.addEventListener("DOMContentLoaded", function () {
-    const text = "A secured reward system on Solana, make it to the top holders and <br> earn virtual assets. Best rewards for Diamond Hands.";
+    const text = "A secure reward system on solana, make it to the top holders to <br> earn $Jup & $Sol. Best rewards for Diamond Hands.";
     const speed = 50; // Speed of typing (milliseconds)
     const pause = 2000; // Pause before restarting
     let i = 0;
